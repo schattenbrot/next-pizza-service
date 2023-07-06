@@ -32,3 +32,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## TODO
+
+- Order > Shopping cart > Checkout
+- Order:
+  - Add alergy information
+  - call instead of online ordering
+  - Better address fields (not just one field)
+  - customer email or phone number
+  - Select the amount of pizzas in the shopping cart and when ordering
+  - Notes field for an order
+  - takeout or delivery?
+- My_order Page:
+  - Live update of the my_order page
+  - status cancelled (shouldn't be possible for pizzas already in the oven)
+- Administration:
+  - ingredients? (much later)
+  - Printout for the driver
